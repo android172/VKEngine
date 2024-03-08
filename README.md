@@ -16,3 +16,5 @@ Some of the graphical effects / features demonstrated:
 The demo is tested and running with 60fps minimum on Nvidia GTX 1060 class graphics.
 
 [![Luthadel Demo](https://img.youtube.com/vi/wsAZ9a1SrgA/0.jpg)](https://www.youtube.com/watch?v=wsAZ9a1SrgA)
+
+Link: https://www.youtube.com/watch?v=wsAZ9a1SrgA
